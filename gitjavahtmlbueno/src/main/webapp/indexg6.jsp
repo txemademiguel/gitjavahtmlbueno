@@ -32,9 +32,6 @@
 	<p>Estamos probando el git</p>
 	<p>Estamos en la rama develop</p>
 	
-	<% for (int i = 0; i < 10; i++) { 
-		"<h" + i> + "Hola mundo</h"
-	%>
 	
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 	<script
