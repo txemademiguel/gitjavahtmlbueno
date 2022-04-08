@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Practica Git - Curso Java</title>
+  <title>Index G0</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
  </head>
  <body>
@@ -12,9 +12,6 @@
    <ul class="navbar-nav">
     <li class="nav-item">
      <a class="nav-link" href="#">Inicio</a>
-    </li>
-    <li class="nav-item">
-     <a class="nav-link" href="indexg0.jsp">G0</a>
     </li>
     <li class="nav-item">
      <a class="nav-link" href="indexg1.jsp">G1</a>
@@ -36,9 +33,8 @@
     </li>
    </ul>
   </nav>
-  <h1>Prueba de Git Colaborativo</h1>
-  <p>Estamos probando Git de manera colaborativa</p>
-  <p>Creo la rama Develop</p>
+  <h1>Prueba del G0</h1>
+  <p>Estamos probando el G0</p>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
