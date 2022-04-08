@@ -11,7 +11,10 @@
   <!-- Links -->
    <ul class="navbar-nav">
     <li class="nav-item">
-     <a class="nav-link" href="#">Inicio</a>
+     <a class="nav-link" href="index.jsp">Inicio</a>
+    </li>
+     <li class="nav-item">
+     <a class="nav-link" href="indexg0.jsp">G0</a>
     </li>
     <li class="nav-item">
      <a class="nav-link" href="indexg1.jsp">G1</a>
