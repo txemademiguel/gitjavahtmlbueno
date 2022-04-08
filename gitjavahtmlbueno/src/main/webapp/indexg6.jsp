@@ -31,7 +31,7 @@
 	<h1>Pagina principal del g6</h1>
 	<p>Estamos probando el git</p>
 	<p>Estamos en la rama develop</p>
-	
+	<p>SALU2</p>
 	
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 	<script
